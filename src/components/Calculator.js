@@ -28,7 +28,8 @@ export default function Calculator() {
         borderRadius:"10px",
         border:" 0 none transparent",
         backgroundColor:"#00356B",
-        color:"white"
+        color:"white",
+        outline:"none"
       }
      
     const weat={
