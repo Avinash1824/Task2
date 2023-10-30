@@ -83,7 +83,7 @@ export default function Calculator() {
           cl
         </button>
         <button style={work1} name="/" onClick={clicker}  type="button" className="">
-          /
+          &#247;
         </button>
             <br></br>
         <button style={work} name="7" onClick={clicker} type="button" className="">
@@ -96,7 +96,7 @@ export default function Calculator() {
           9
         </button>
         <button style={work1} name="*" onClick={clicker}  type="button" className="">
-          *
+          &#215;
         </button>
         <br />
         <button style={work} name="4" onClick={clicker} type="button" className="">
